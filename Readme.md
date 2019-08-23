@@ -1,1 +1,1 @@
-Projeto clone Spotify, utilizando Bootstrap e responsivo!
+Projeto clone Spotify, utilizando Bootstrap e responsivo!!!
